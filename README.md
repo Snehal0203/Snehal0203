@@ -9,7 +9,7 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=Snehal0203&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,12 +17,6 @@
 
 <br />
 
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- This section you create this variables that are used above -->
 [website]: https://linktr.ee/snehal_adbol
 [instagram]: https://www.instagram.com/_adbol02/
 
