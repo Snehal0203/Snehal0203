@@ -15,7 +15,7 @@
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="file:///C:/Users/Snehal%20Adbol/Downloads/instagram-svgrepo-com.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />][instagram]
 
 <br />
 
