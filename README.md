@@ -2,12 +2,10 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+- 🌱 I’m currently learning - Python, Machine Learning 
+-😀 Prononus - She/her
+- 💬 how to reach me - snehaladbol@gmail.com
+- ⚡ Fun fact - I am very good at playing piano 
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
