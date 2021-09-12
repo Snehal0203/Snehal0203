@@ -3,6 +3,7 @@
 
 ## Your short description
 - 🌱 I’m currently learning - Python, Machine Learning 
+
 -😀 Prononus - She/her
 - 💬 how to reach me - snehaladbol@gmail.com
 - ⚡ Fun fact - I am very good at playing piano 
