@@ -15,6 +15,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Devpost" width="22px" src="https://devpost-challengepost.netdna-ssl.com/assets/shared/devpost_social_icon_200_200-7b823e9bb545df78675e749bcb8b15ed.jpg" />][devpost]
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Snehal0203&langs_count=8" alt = "Top Langs
+
 
 <br />
 
