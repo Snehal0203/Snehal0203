@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning - Python, Machine Learning 
 - 😀 Prononus - She/her
 - 💬 how to reach me - snehaladbol@gmail.com
-- ⚡ Fun fact - I am an excellent pianist. 
+- ⚡ Fun fact - I can speak 5 languages. 
 
 
 [![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=Snehal0203&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
