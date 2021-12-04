@@ -3,7 +3,6 @@
 
 ## A student with a passion for computer science, AI/ML, and software development.
 - 🌱 I’m currently learning - Python, Machine Learning 
-- 😀 Prononus - She/her
 - 💬 how to reach me - snehaladbol@gmail.com
 - ⚡ Fun fact - I can speak 5 languages. 
 
