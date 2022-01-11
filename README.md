@@ -7,7 +7,7 @@
 - ⚡ Fun fact - I can speak 5 languages. 
 
 
-[![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=Snehal0203&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=Snehal0308&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,7 +20,7 @@
 <br />
 
 [website]: https://linktr.ee/snehal_adbol
-[instagram]: https://www.instagram.com/_adbol02/
+[instagram]: https://www.instagram.com/snehal_adbol/
 [Devpost]: https://devpost.com/snehaladbol?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 
