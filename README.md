@@ -4,7 +4,7 @@
 ## A student with a passion for computer science, AI/ML, and software development.
 - 🌱 I’m currently learning - Python, Machine Learning 
 - 💬 how to reach me - snehaladbol@gmail.com
-- ⚡ Fun fact - I can speak 5 languages. 
+- ⚡ Fun fact - 
 
 
 [![Snehal's github stats](https://github-readme-stats.vercel.app/api?username=Snehal0308&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
