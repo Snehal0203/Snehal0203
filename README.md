@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Snehal</h1>
 <h3 align="center">A student with a passion for computer science, AI/ML, and software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehal0308&label=Profile%20views&color=0e75b6&style=flat" alt="snehal0308" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehal0308" alt="snehal0308" /></a> </p>
+
+- 💻 My portfolio **https://snehal0308.github.io/**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://snehal0308.github.io/](https://snehal0308.github.io/)
+- 👨‍💻 All of my projects are available at [devpost.com/snehaladbol](https://devpost.com/snehaladbol)
 
 - 📫 How to reach me **snehaladbol@gmail.com**
 
